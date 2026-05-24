@@ -126,7 +126,7 @@ ethara-task-manager/
 ## ✅ Submission Checklist
 
 - [x] Live URL: https://web-production-228f7.up.railway.app
-- [x] GitHub Repo: https://github.com/pandey807/team-task-manager
+- [x] GitHub Repo: https://github.com/pandey807/team-task-manager 
 - [x] README documentation
 - [ ] 2–5 min demo video
 
